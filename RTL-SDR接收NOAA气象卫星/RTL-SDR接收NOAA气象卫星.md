@@ -66,11 +66,11 @@ https://github.com/wikiZ/DDE
 
 初次打开WXtoimg软件，会提示输入经纬度所在地城市信息，这里我们按照自己所在的城市填写即可。如下图：
 
-![img]()
+![image](https://user-images.githubusercontent.com/37897216/233991831-6cbe085c-e291-4932-8c27-b61b0244cbfa.png)
 
 如果提示没有输入的所在城市，那么在下面lat、lon自定义经纬度即可。设置后，如果以后想要再次调整位置信息，也可以在Options->Ground Station Location设置。
 
-![img]()
+![image](https://user-images.githubusercontent.com/37897216/233991874-d2d69581-cd13-4ead-9ff8-efcc10c7d37b.png)
 
 然后再Options->Recording Options中对声音输入进行选择，可以看到选项soundcard中我们选择的是CABLE虚拟声卡，关于虚拟声卡的安装配置这里不多赘述，可以自行百度。在下载好虚拟声卡将这里选择为CABLE。。。即可。当然也可以有外放声卡，但是虚拟声卡录制时不会掺杂一些环境杂音，保证了接收时的音频质量。
 
